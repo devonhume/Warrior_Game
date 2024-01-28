@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://b5srp1h1cscvq"]
+
+[ext_resource type="Texture2D" uid="uid://cr8jtcn2u3cci" path="res://Tiles/health_heart.png" id="1_1ly52"]
+[ext_resource type="Script" path="res://ui/health_heart.gd" id="2_nyy5r"]
+
+[node name="Health_Heart" type="TextureRect"]
+texture = ExtResource("1_1ly52")
+script = ExtResource("2_nyy5r")

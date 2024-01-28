@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bebps72xmnxg4"]
+
+[ext_resource type="Script" path="res://processor/processor.gd" id="1_f0vv3"]
+
+[node name="processor" type="CharacterBody2D"]
+script = ExtResource("1_f0vv3")
